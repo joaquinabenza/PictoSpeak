@@ -1,0 +1,8 @@
+{
+  "name": "PictoSpeak AAC",
+  "description": "An accessible Augmentative and Alternative Communication (AAC) web app using ARASAAC pictograms and Gemini AI for natural sentence generation and speech synthesis.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
